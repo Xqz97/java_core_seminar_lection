@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"seminar.seminar_1.task_1.bg","c":"Complex","l":"Complex()","u":"%3Cinit%3E()"},{"p":"seminar.seminar_1.task_1.bg","c":"Complex","l":"hello()"},{"p":"seminar.seminar_1.task_1.gb","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"seminar.seminar_1.task_1.gb","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
